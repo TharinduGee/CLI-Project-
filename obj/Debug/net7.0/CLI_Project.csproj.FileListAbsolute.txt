@@ -1,0 +1,90 @@
+D:\GUi\CLI_Project\bin\Debug\net7.0\CLI_Project.exe
+D:\GUi\CLI_Project\bin\Debug\net7.0\CLI_Project.deps.json
+D:\GUi\CLI_Project\bin\Debug\net7.0\CLI_Project.runtimeconfig.json
+D:\GUi\CLI_Project\bin\Debug\net7.0\CLI_Project.dll
+D:\GUi\CLI_Project\bin\Debug\net7.0\CLI_Project.pdb
+D:\GUi\CLI_Project\obj\Debug\net7.0\CLI_Project.csproj.AssemblyReference.cache
+D:\GUi\CLI_Project\obj\Debug\net7.0\CLI_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\GUi\CLI_Project\obj\Debug\net7.0\CLI_Project.AssemblyInfoInputs.cache
+D:\GUi\CLI_Project\obj\Debug\net7.0\CLI_Project.AssemblyInfo.cs
+D:\GUi\CLI_Project\obj\Debug\net7.0\CLI_Project.csproj.CoreCompileInputs.cache
+D:\GUi\CLI_Project\obj\Debug\net7.0\CLI_Project.dll
+D:\GUi\CLI_Project\obj\Debug\net7.0\refint\CLI_Project.dll
+D:\GUi\CLI_Project\obj\Debug\net7.0\CLI_Project.pdb
+D:\GUi\CLI_Project\obj\Debug\net7.0\CLI_Project.genruntimeconfig.cache
+D:\GUi\CLI_Project\obj\Debug\net7.0\ref\CLI_Project.dll
+D:\Campus\Academics\Semester 3\GUI Programming\CLI\takehome\CLI_Project\bin\Debug\net7.0\CLI_Project.exe
+D:\Campus\Academics\Semester 3\GUI Programming\CLI\takehome\CLI_Project\bin\Debug\net7.0\CLI_Project.deps.json
+D:\Campus\Academics\Semester 3\GUI Programming\CLI\takehome\CLI_Project\bin\Debug\net7.0\CLI_Project.runtimeconfig.json
+D:\Campus\Academics\Semester 3\GUI Programming\CLI\takehome\CLI_Project\bin\Debug\net7.0\CLI_Project.dll
+D:\Campus\Academics\Semester 3\GUI Programming\CLI\takehome\CLI_Project\bin\Debug\net7.0\CLI_Project.pdb
+D:\Campus\Academics\Semester 3\GUI Programming\CLI\takehome\CLI_Project\obj\Debug\net7.0\CLI_Project.csproj.AssemblyReference.cache
+D:\Campus\Academics\Semester 3\GUI Programming\CLI\takehome\CLI_Project\obj\Debug\net7.0\CLI_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Campus\Academics\Semester 3\GUI Programming\CLI\takehome\CLI_Project\obj\Debug\net7.0\CLI_Project.AssemblyInfoInputs.cache
+D:\Campus\Academics\Semester 3\GUI Programming\CLI\takehome\CLI_Project\obj\Debug\net7.0\CLI_Project.AssemblyInfo.cs
+D:\Campus\Academics\Semester 3\GUI Programming\CLI\takehome\CLI_Project\obj\Debug\net7.0\CLI_Project.csproj.CoreCompileInputs.cache
+D:\Campus\Academics\Semester 3\GUI Programming\CLI\takehome\CLI_Project\obj\Debug\net7.0\CLI_Project.dll
+D:\Campus\Academics\Semester 3\GUI Programming\CLI\takehome\CLI_Project\obj\Debug\net7.0\refint\CLI_Project.dll
+D:\Campus\Academics\Semester 3\GUI Programming\CLI\takehome\CLI_Project\obj\Debug\net7.0\CLI_Project.pdb
+D:\Campus\Academics\Semester 3\GUI Programming\CLI\takehome\CLI_Project\obj\Debug\net7.0\CLI_Project.genruntimeconfig.cache
+D:\Campus\Academics\Semester 3\GUI Programming\CLI\takehome\CLI_Project\obj\Debug\net7.0\ref\CLI_Project.dll
+C:\Users\Tharindu\Desktop\CLI_Project\CLI_Project\obj\Debug\net7.0\CLI_Project.csproj.AssemblyReference.cache
+C:\Users\Tharindu\Desktop\CLI_Project\CLI_Project\obj\Debug\net7.0\CLI_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tharindu\Desktop\CLI_Project\CLI_Project\obj\Debug\net7.0\CLI_Project.AssemblyInfoInputs.cache
+C:\Users\Tharindu\Desktop\CLI_Project\CLI_Project\obj\Debug\net7.0\CLI_Project.AssemblyInfo.cs
+C:\Users\Tharindu\Desktop\CLI_Project\CLI_Project\obj\Debug\net7.0\CLI_Project.csproj.CoreCompileInputs.cache
+C:\Users\Tharindu\Desktop\CLI_Project\CLI_Project\obj\Debug\net7.0\CLI_Project.dll
+C:\Users\Tharindu\Desktop\CLI_Project\CLI_Project\obj\Debug\net7.0\refint\CLI_Project.dll
+C:\Users\Tharindu\Desktop\CLI_Project\CLI_Project\obj\Debug\net7.0\CLI_Project.pdb
+C:\Users\Tharindu\Desktop\CLI_Project\CLI_Project\bin\Debug\net7.0\CLI_Project.exe
+C:\Users\Tharindu\Desktop\CLI_Project\CLI_Project\bin\Debug\net7.0\CLI_Project.deps.json
+C:\Users\Tharindu\Desktop\CLI_Project\CLI_Project\bin\Debug\net7.0\CLI_Project.runtimeconfig.json
+C:\Users\Tharindu\Desktop\CLI_Project\CLI_Project\bin\Debug\net7.0\CLI_Project.dll
+C:\Users\Tharindu\Desktop\CLI_Project\CLI_Project\bin\Debug\net7.0\CLI_Project.pdb
+C:\Users\Tharindu\Desktop\CLI_Project\CLI_Project\obj\Debug\net7.0\CLI_Project.genruntimeconfig.cache
+C:\Users\Tharindu\Desktop\CLI_Project\CLI_Project\obj\Debug\net7.0\ref\CLI_Project.dll
+C:\Users\Tharindu\Desktop\CLI_Project\bin\Debug\net7.0\CLI_Project.exe
+C:\Users\Tharindu\Desktop\CLI_Project\bin\Debug\net7.0\CLI_Project.deps.json
+C:\Users\Tharindu\Desktop\CLI_Project\bin\Debug\net7.0\CLI_Project.runtimeconfig.json
+C:\Users\Tharindu\Desktop\CLI_Project\bin\Debug\net7.0\CLI_Project.dll
+C:\Users\Tharindu\Desktop\CLI_Project\bin\Debug\net7.0\CLI_Project.pdb
+C:\Users\Tharindu\Desktop\CLI_Project\obj\Debug\net7.0\CLI_Project.csproj.AssemblyReference.cache
+C:\Users\Tharindu\Desktop\CLI_Project\obj\Debug\net7.0\CLI_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tharindu\Desktop\CLI_Project\obj\Debug\net7.0\CLI_Project.AssemblyInfoInputs.cache
+C:\Users\Tharindu\Desktop\CLI_Project\obj\Debug\net7.0\CLI_Project.AssemblyInfo.cs
+C:\Users\Tharindu\Desktop\CLI_Project\obj\Debug\net7.0\CLI_Project.csproj.CoreCompileInputs.cache
+C:\Users\Tharindu\Desktop\CLI_Project\obj\Debug\net7.0\CLI_Project.dll
+C:\Users\Tharindu\Desktop\CLI_Project\obj\Debug\net7.0\refint\CLI_Project.dll
+C:\Users\Tharindu\Desktop\CLI_Project\obj\Debug\net7.0\CLI_Project.pdb
+C:\Users\Tharindu\Desktop\CLI_Project\obj\Debug\net7.0\CLI_Project.genruntimeconfig.cache
+C:\Users\Tharindu\Desktop\CLI_Project\obj\Debug\net7.0\ref\CLI_Project.dll
+C:\Users\Tharindu\Desktop\EG_2020_3935\CLI_Project\bin\Debug\net7.0\CLI_Project.exe
+C:\Users\Tharindu\Desktop\EG_2020_3935\CLI_Project\bin\Debug\net7.0\CLI_Project.deps.json
+C:\Users\Tharindu\Desktop\EG_2020_3935\CLI_Project\bin\Debug\net7.0\CLI_Project.runtimeconfig.json
+C:\Users\Tharindu\Desktop\EG_2020_3935\CLI_Project\bin\Debug\net7.0\CLI_Project.dll
+C:\Users\Tharindu\Desktop\EG_2020_3935\CLI_Project\bin\Debug\net7.0\CLI_Project.pdb
+C:\Users\Tharindu\Desktop\EG_2020_3935\CLI_Project\obj\Debug\net7.0\CLI_Project.csproj.AssemblyReference.cache
+C:\Users\Tharindu\Desktop\EG_2020_3935\CLI_Project\obj\Debug\net7.0\CLI_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tharindu\Desktop\EG_2020_3935\CLI_Project\obj\Debug\net7.0\CLI_Project.AssemblyInfoInputs.cache
+C:\Users\Tharindu\Desktop\EG_2020_3935\CLI_Project\obj\Debug\net7.0\CLI_Project.AssemblyInfo.cs
+C:\Users\Tharindu\Desktop\EG_2020_3935\CLI_Project\obj\Debug\net7.0\CLI_Project.csproj.CoreCompileInputs.cache
+C:\Users\Tharindu\Desktop\EG_2020_3935\CLI_Project\obj\Debug\net7.0\CLI_Project.dll
+C:\Users\Tharindu\Desktop\EG_2020_3935\CLI_Project\obj\Debug\net7.0\refint\CLI_Project.dll
+C:\Users\Tharindu\Desktop\EG_2020_3935\CLI_Project\obj\Debug\net7.0\CLI_Project.pdb
+C:\Users\Tharindu\Desktop\EG_2020_3935\CLI_Project\obj\Debug\net7.0\CLI_Project.genruntimeconfig.cache
+C:\Users\Tharindu\Desktop\EG_2020_3935\CLI_Project\obj\Debug\net7.0\ref\CLI_Project.dll
+D:\Semester 3\EG_2020_3935\CLI_Project\bin\Debug\net7.0\CLI_Project.exe
+D:\Semester 3\EG_2020_3935\CLI_Project\bin\Debug\net7.0\CLI_Project.deps.json
+D:\Semester 3\EG_2020_3935\CLI_Project\bin\Debug\net7.0\CLI_Project.runtimeconfig.json
+D:\Semester 3\EG_2020_3935\CLI_Project\bin\Debug\net7.0\CLI_Project.dll
+D:\Semester 3\EG_2020_3935\CLI_Project\bin\Debug\net7.0\CLI_Project.pdb
+D:\Semester 3\EG_2020_3935\CLI_Project\obj\Debug\net7.0\CLI_Project.csproj.AssemblyReference.cache
+D:\Semester 3\EG_2020_3935\CLI_Project\obj\Debug\net7.0\CLI_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester 3\EG_2020_3935\CLI_Project\obj\Debug\net7.0\CLI_Project.AssemblyInfoInputs.cache
+D:\Semester 3\EG_2020_3935\CLI_Project\obj\Debug\net7.0\CLI_Project.AssemblyInfo.cs
+D:\Semester 3\EG_2020_3935\CLI_Project\obj\Debug\net7.0\CLI_Project.csproj.CoreCompileInputs.cache
+D:\Semester 3\EG_2020_3935\CLI_Project\obj\Debug\net7.0\CLI_Project.dll
+D:\Semester 3\EG_2020_3935\CLI_Project\obj\Debug\net7.0\refint\CLI_Project.dll
+D:\Semester 3\EG_2020_3935\CLI_Project\obj\Debug\net7.0\CLI_Project.pdb
+D:\Semester 3\EG_2020_3935\CLI_Project\obj\Debug\net7.0\CLI_Project.genruntimeconfig.cache
+D:\Semester 3\EG_2020_3935\CLI_Project\obj\Debug\net7.0\ref\CLI_Project.dll
